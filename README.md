@@ -23,7 +23,7 @@
 Dataset **tidak disertakan di repository ini** karena ukurannya besar (>100MB).
 
 **Download dataset di sini:**
-> 📁 [Google Drive - Pulsevera Data](GANTI_DENGAN_LINK_GOOGLE_DRIVE)
+> 📁 [Google Drive - Pulsevera Data](https://drive.google.com/drive/folders/1jtkudb-Ggt4nk9gZygS4O87hWGDT0sbH?usp=sharing)
 
 Setelah download, letakkan file sesuai struktur berikut:
 ```
